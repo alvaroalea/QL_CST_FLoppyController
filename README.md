@@ -9,9 +9,9 @@ CST was one of the main manufacturer of add-on for the Sinclair QL computer, thi
 The Disk interface evolved over several version, with enhaced compatibilities in each version.
 
 - Issue 1 - I can't get information about this Issue on internet.
-- Issue 2 - This version use ReVision 1.13 (C) 1985 of the ROM, of 8Kb, Nicolaos Doukas draw the schematic an create a clone. Is possible to upgrade Issue 2 to ROM 1.16 if isolate the PIN 3 of IC3 (74LS03).
-- Issue 3 - This version use Revision 1.16 (C) 198X of the ROM, of 8Kb, new clock circuit and 1 missing track on the PCB (and this is the reason you need to isolate pin 3 on Issue 2)
-- Issue 4 - This version use Revision 1.18 (C) 1986 /1.19 (C) 1987 of the ROM, diferent circuit, increase the ROM size to 12Kb (use a 16Kb Eprom chip), now include RAM disk driver in rom, this version se a scrambled ROM, so when read with a external device, you can see the code.
+- Issue 2 - This version use ROM Revision 1.13 (C) 1985, of 8Kb, Nicolaos Doukas draw the schematic an create a clone. Is possible to upgrade Issue 2 to ROM 1.16 if isolate the PIN 3 of IC3 (74LS03).
+- Issue 3 - This version use ROM Revision 1.16 (C) 1984, of 8Kb, new clock circuit and 1 missing track on the PCB (and this is the reason you need to isolate pin 3 on Issue 2)
+- Issue 4 - This version use ROM Revision 1.18 (C) 1986 /1.19 (C) 1987, diferent circuit, increase the ROM size to 12Kb (use a 16Kb Eprom chip), now include RAM disk driver in rom, this version use a scrambled ROM, so when read with a external device, you can see the code.
 
 Version 1.19 of ROM is missing in action, other version area available to download here: https://dilwyn.theqlforum.com/qlrom/index.html
 
